@@ -34,3 +34,22 @@ def cria_pairplot(dados, hue=None):
                                'scatter_kws': {'color': '#ADD8E6', 's': 3}})
     
     plt.show()
+
+def plot_histogram_boxplot(dados, titulo, xlabel, ylabel, cor='#8e7cc3'):
+
+    fig, axs = plt.subplots(1, 2, figsize=(12, 5))
+
+
+    sns.histplot(x=dados, bins=20, kde=True, color=cor, ax=axs[0])
+    axs[0].set_title(titulo)
+    axs[0].set_xlabel(xlabel)
+    axs[0].set_ylabel(ylabel)
+
+
+    sns.boxplot(y=dados, color=cor, ax=axs[1])
+    axs[1].set_xlabel(xlabel)
+    axs[1].set_ylabel(ylabel)
+
+
+    plt.tight_layout()
+    plt.show()
