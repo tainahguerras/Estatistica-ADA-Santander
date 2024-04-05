@@ -35,7 +35,7 @@ def cria_pairplot(dados, hue=None):
     
     plt.show()
 
-def plot_histogram_boxplot(dados, titulo, xlabel, ylabel, cor='#8e7cc3'):
+def plot_histogram_boxplot(dados, titulo, xlabel, ylabel, cor='#8e7cc3', orientacao = 'v'):
 
     fig, axs = plt.subplots(1, 2, figsize=(12, 5))
 
@@ -46,7 +46,7 @@ def plot_histogram_boxplot(dados, titulo, xlabel, ylabel, cor='#8e7cc3'):
     axs[0].set_ylabel(ylabel)
 
 
-    sns.boxplot(y=dados, color=cor, ax=axs[1])
+    sns.boxplot(y=dados, color=cor, ax=axs[1], orient=orientacao)
     axs[1].set_xlabel(xlabel)
     axs[1].set_ylabel(ylabel)
 
