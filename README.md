@@ -9,8 +9,6 @@
 
 ### Por: Tainah Guerra ID: 05, Matheus Mendonça - ID: 08 e Otávio Santos - ID: 14
 
-<br>
-
 ### 1. OBJETIVO
 
 Este projeto tem como principal objetivo aplicar os
@@ -30,16 +28,16 @@ facilitar a colaboração entre os membros da equipe e garantir que o projeto se
 
 O banco de dados contem informações sobre performance de alunos em testes e outras diferentes variáveis do aluno como gênero, raça, nível de educação dos pais, etc ...
 
-| Colunas                     | Descrição                                      | Dtype  | Classificação        |
-|-----------------------------|------------------------------------------------|--------|----------------------| 
-| gender                      | Gênero do aluno                                | object | Qualitativa Nominal  |
-| race_ethnicity              | Grupo étnico do aluno                          | object | Qualitativa Nominal  | 
-| parental_level_of_education | Último nível de educação dos pais              | object | Qualitativa Ordinal  |
-| lunch                       | Almoço antes do teste                          | object | Qualitativa Nominal  |
-| test_preparation_course     | Finalização do curso preparatório para o teste | object | Qualitativa Nominal  |
-| math_score                  | Nota em matemática                             | int64  | Quantitativa Discreta|
-| reading_score               | Nota em leitura                                | int64  | Quantitativa Discreta|
-| writing_score               | Nota em escrita                                | int64  | Quantitativa Discreta|
+| Colunas                     | Descrição                                      | Classificação        |
+|-----------------------------|------------------------------------------------|----------------------| 
+| gender                      | Gênero do aluno                                | Qualitativa Nominal  |
+| race_ethnicity              | Grupo étnico do aluno                          | Qualitativa Nominal  | 
+| parental_level_of_education | Último nível de educação dos pais              | Qualitativa Ordinal  |
+| lunch                       | Almoço antes do teste                          | Qualitativa Nominal  |
+| test_preparation_course     | Finalização do curso preparatório para o teste | Qualitativa Nominal  |
+| math_score                  | Nota em matemática                             | Quantitativa Discreta|
+| reading_score               | Nota em leitura                                | Quantitativa Discreta|
+| writing_score               | Nota em escrita                                | Quantitativa Discreta|
 
 Os dados foram retirados da plataforma Kaggle e podem ser encontrados [aqui](https://www.kaggle.com/datasets/bhavikjikadara/student-study-performance). 
 
