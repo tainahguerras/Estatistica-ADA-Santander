@@ -3,8 +3,9 @@
 - Projeto: EDA (Análise Exploratória de Dados)
 - Curso: Data Science - Santander Coders 2023 | 2º Semestre
 - Módulo: Estatistica I
-- Professor: Lucas Hermeto
 - Turma: 11160
+- Professor: Lucas Hermeto
+
 
 ### Por: Tainah Guerra ID: 05, Matheus Mendonça - ID: 08 e Otávio Santos - ID: 14
 
