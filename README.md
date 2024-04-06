@@ -28,7 +28,7 @@ facilitar a colaboração entre os membros da equipe e garantir que o projeto se
 
 ### 3. BASE DE DADOS
 
-O banco de dados contem informações sobre performance de alunos em testes e outras diferentes variáveis do aluno como gênero, raça, nível de educação dos pais, etc...
+O banco de dados contem informações sobre performance de alunos em testes e outras diferentes variáveis do aluno como gênero, raça, nível de educação dos pais, etc ...
 
 | Colunas                     | Descrição                                      | Dtype  | Classificação        |
 |-----------------------------|------------------------------------------------|--------|----------------------| 
@@ -43,7 +43,7 @@ O banco de dados contem informações sobre performance de alunos em testes e ou
 
 Os dados foram retirados da plataforma Kaggle e podem ser encontrados [aqui](https://www.kaggle.com/datasets/bhavikjikadara/student-study-performance). 
 
-## 4. FERRAMENTAS
+### 4. FERRAMENTAS
 
 - Git
 - NumPy
@@ -52,4 +52,6 @@ Os dados foram retirados da plataforma Kaggle e podem ser encontrados [aqui](htt
 - Scipy 
 - Seaborn
 - Trello
+
+### 5. REFENRÊNCIAS
 
