@@ -17,8 +17,11 @@ analisar a distribuição dos dados e extrair insights através da realização 
 
 ### 2. METODOLOGIAS ÁGEIS
 
-Para este projeto foi utilizada a ferramenta de gestão de projetos [Trello](). Utilizado para manter o projeto organizado,
+Para este projeto foi utilizada a ferramenta de gestão de projetos [Trello](https://trello.com/b/h9Q6qqib/projeto-estatistica-ada). Utilizado para manter o projeto organizado,
 facilitar a colaboração entre os membros da equipe e garantir que o projeto seja concluído dentro do prazo estabelecido.
+
+![image](https://github.com/tainahguerras/Estatistica-ADA-Santander/assets/142911747/4edbccc2-aa25-43d0-9052-ef69b7ed243d)
+
 
 ### 3. BASE DE DADOS
 
