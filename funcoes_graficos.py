@@ -6,7 +6,7 @@ def create_histogram(data, title = '', xlabel = '', ylabel = '', size = (8,4)):
     ax = sns.histplot(x=data, bins=20, kde=True, color='#8e7cc3')
 
     ax.figure.set_size_inches(size)
-    ax.set_title(title , fontsize=14)
+    ax.set_title(title , fontsize=12)
     ax.set_xlabel(xlabel, fontsize=10)
     ax.set_ylabel(ylabel, fontsize=10)
     ax
