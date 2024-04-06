@@ -4,12 +4,9 @@
 - Curso: Data Science - Santander Coders 2023 | 2º Semestre
 - Módulo: Estatistica I
 - Professor: Lucas Hermeto
+- Turma: 11160
 
-Por: Tainah Guerra - ID: 1116005, 
-
-Otávio Santos - ID: 1116014 e 
-
-Matheus Mendonça - ID: 1116008
+## Por: Tainah Guerra ID: 05, Matheus Mendonça - ID: 08 e Otávio Santos - ID: 014
 
 ### 1. OBJETIVO
 
