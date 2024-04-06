@@ -6,7 +6,7 @@
 - Professor: Lucas Hermeto
 - Turma: 11160
 
-## Por: Tainah Guerra ID: 05, Matheus Mendonça - ID: 08 e Otávio Santos - ID: 014
+### Por: Tainah Guerra ID: 05, Matheus Mendonça - ID: 08 e Otávio Santos - ID: 014
 
 ### 1. OBJETIVO
 
