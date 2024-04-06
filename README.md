@@ -1,4 +1,4 @@
-# Estatistica
+# Estatistica-ADA-Santander
 
 - Projeto: EDA (Análise Exploratória de Dados)
 - Curso: Data Science - Santander Coders 2023 | 2º Semestre
