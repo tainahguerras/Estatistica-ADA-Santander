@@ -6,12 +6,14 @@
 - Professor: Lucas Hermeto
 - Turma: 11160
 
-### Por: Tainah Guerra ID: 05, Matheus Mendonça - ID: 08 e Otávio Santos - ID: 014
+### Por: Tainah Guerra ID: 05, Matheus Mendonça - ID: 08 e Otávio Santos - ID: 14
 
 ### 1. OBJETIVO
 
 Este projeto tem como principal objetivo aplicar os
-conhecimentos adquiridos ao longo da disciplina de Estatística I utilizando uma base de dados pública, com o intuito é aplicar os fundamentos da estatística descritiva, analisar a distribuição dos dados e extrair insights através da realização de testes de hipóteses.
+conhecimentos adquiridos ao longo da disciplina de Estatística I utilizando uma base de dados pública, 
+com o intuito é aplicar os fundamentos da estatística descritiva, 
+analisar a distribuição dos dados e extrair insights através da realização de testes de hipóteses.
 
 ### 2. METODOLOGIAS ÁGEIS
 
