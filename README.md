@@ -53,5 +53,5 @@ Os dados foram retirados da plataforma Kaggle e podem ser encontrados [aqui](htt
 - Seaborn
 - Trello
 
-### 5. REFENRÊNCIAS
+### 5. REFERÊNCIAS
 
