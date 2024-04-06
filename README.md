@@ -5,7 +5,11 @@
 - Módulo: Estatistica I
 - Professor: Lucas Hermeto
 
-## Por: Tainah Guerra - ID: 1116005, Otávio Santos - ID: 1116014 e Matheus Mendonça - ID: 1116008
+Por: Tainah Guerra - ID: 1116005, 
+
+Otávio Santos - ID: 1116014 e 
+
+Matheus Mendonça - ID: 1116008
 
 ### 1. OBJETIVO
 
