@@ -48,7 +48,6 @@ Os dados foram retirados da plataforma Kaggle e podem ser encontrados [aqui](htt
 ### ``4. FERRAMENTAS``
 
 - Git
-- NumPy
 - Matplotlib
 - Pandas
 - Scipy 
@@ -57,3 +56,8 @@ Os dados foram retirados da plataforma Kaggle e podem ser encontrados [aqui](htt
 
 ### ``5. REFERÊNCIAS``
 
+- https://neptune.ai/blog/using-exploratory-notebooks
+- https://seaborn.pydata.org/
+- https://matplotlib.org/stable/index.html
+- https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.mannwhitneyu.html
+- https://pandas.pydata.org/docs/
