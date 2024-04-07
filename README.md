@@ -48,7 +48,6 @@ Os dados foram retirados da plataforma Kaggle e podem ser encontrados [aqui](htt
 ### ``4. FERRAMENTAS``
 
 - Git
-- NumPy
 - Matplotlib
 - Pandas
 - Scipy 
