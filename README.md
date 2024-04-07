@@ -9,12 +9,16 @@
 
 ### Por: Tainah Guerra ID: 05, Matheus Mendonça - ID: 08 e Otávio Santos - ID: 14
 
-### 1. OBJETIVO
+### 1.1 OBJETIVO
 
 Este projeto tem como principal objetivo aplicar os
 conhecimentos adquiridos ao longo da disciplina de Estatística I utilizando uma base de dados pública, 
-com o intuito é aplicar os fundamentos da estatística descritiva, 
+com o intuito de aplicar os fundamentos da estatística descritiva, 
 analisar a distribuição dos dados e extrair insights através da realização de testes de hipóteses.
+
+### 1.2 OBJETIVO ESPECÍFICO
+
+O projeto visa entender, como a preparação prévia dos alunos se relaciona com às notas alcançadas em testes de conhecimento em matemática, escrita e leitura.
 
 ### 2. METODOLOGIAS ÁGEIS
 
