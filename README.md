@@ -9,7 +9,7 @@
 
 ### Por: Tainah Guerra ID: 05, Matheus Mendonça - ID: 08 e Otávio Santos - ID: 14
 
-### 1.1 OBJETIVO
+### ``1.1 OBJETIVO``
 
 Este projeto tem como principal objetivo aplicar os
 conhecimentos adquiridos ao longo da disciplina de Estatística I utilizando uma base de dados pública, 
