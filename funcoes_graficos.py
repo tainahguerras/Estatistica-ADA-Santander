@@ -1,10 +1,9 @@
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-def create_histogram(data, hue, title = '', xlabel = '', ylabel = '', size = (8,4)):
-
-    palette = {'categoria1': '#8e7cc3', 'categoria2': '#3f07e6'}
-    ax = sns.histplot(x=data, bins=20, kde=True, hue=hue, palette=palette)
+def create_histogram(data, title = '', xlabel = '', ylabel = '', size = (8,4)):
+    
+    ax = sns.histplot(x=data, bins=20, kde=True, color='#8e7cc3')
 
     ax.figure.set_size_inches(size)
     ax.set_title(title , fontsize=12)
