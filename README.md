@@ -9,14 +9,18 @@
 
 ### Por: Tainah Guerra ID: 05, Matheus Mendonça - ID: 08 e Otávio Santos - ID: 14
 
-### 1. OBJETIVO
+### ``1.1 OBJETIVO``
 
 Este projeto tem como principal objetivo aplicar os
 conhecimentos adquiridos ao longo da disciplina de Estatística I utilizando uma base de dados pública, 
-com o intuito é aplicar os fundamentos da estatística descritiva, 
+com o intuito de aplicar os fundamentos da estatística descritiva, 
 analisar a distribuição dos dados e extrair insights através da realização de testes de hipóteses.
 
-### 2. METODOLOGIAS ÁGEIS
+### ``1.2 OBJETIVO ESPECÍFICO``
+
+O projeto visa entender, como a preparação prévia dos alunos se relaciona com às notas alcançadas em testes de conhecimento em matemática, escrita e leitura.
+
+### ``2. METODOLOGIAS ÁGEIS``
 
 Para este projeto foi utilizada a ferramenta de gestão de projetos [Trello](https://trello.com/b/h9Q6qqib/projeto-estatistica-ada). Utilizado para manter o projeto organizado,
 facilitar a colaboração entre os membros da equipe e garantir que o projeto seja concluído dentro do prazo estabelecido.
@@ -24,7 +28,7 @@ facilitar a colaboração entre os membros da equipe e garantir que o projeto se
 ![image](https://github.com/tainahguerras/Estatistica-ADA-Santander/assets/142911747/4edbccc2-aa25-43d0-9052-ef69b7ed243d)
 
 
-### 3. BASE DE DADOS
+### ``3. BASE DE DADOS``
 
 O banco de dados contem informações sobre performance de alunos em testes e outras diferentes variáveis do aluno como gênero, raça, nível de educação dos pais, etc ...
 
@@ -41,7 +45,7 @@ O banco de dados contem informações sobre performance de alunos em testes e ou
 
 Os dados foram retirados da plataforma Kaggle e podem ser encontrados [aqui](https://www.kaggle.com/datasets/bhavikjikadara/student-study-performance). 
 
-### 4. FERRAMENTAS
+### ``4. FERRAMENTAS``
 
 - Git
 - NumPy
@@ -51,5 +55,5 @@ Os dados foram retirados da plataforma Kaggle e podem ser encontrados [aqui](htt
 - Seaborn
 - Trello
 
-### 5. REFERÊNCIAS
+### ``5. REFERÊNCIAS``
 
