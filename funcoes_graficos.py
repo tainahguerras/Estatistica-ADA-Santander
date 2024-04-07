@@ -3,7 +3,7 @@ import seaborn as sns
 
 def create_histogram(data, hue, title = '', xlabel = '', ylabel = '', size = (8,4)):
 
-    palette = {'completed': '#8e7cc3', 'none': '#3f07e6'}
+    palette = {'none': '#8e7cc3', 'completed': '#3f07e6'}
     ax = sns.histplot(x=data, bins=20, kde=True, hue=hue, palette=palette)
 
     ax.figure.set_size_inches(size)
