@@ -11,18 +11,16 @@ def create_histogram(data, title = '', xlabel = '', ylabel = '', size = (8,4)):
     ax.set_ylabel(ylabel, fontsize=10)
     ax
 
-def plot_violin_boxplot(dados, titulo, xlabel, ylabel, cor='#8e7cc3'):
+def create_violin_boxplot(data, title, ylabel, color='#8e7cc3', size = (8,4)):
 
-    fig, axs = plt.subplots(1, 2, figsize=(12, 8))
+    fig, axs = plt.subplots(1, 2, figsize = size, sharey=True)
 
-    sns.boxplot(x=dados, color=cor, ax=axs[0])
-    axs[0].set_title(titulo)
-    axs[0].set_xlabel(xlabel)
-    axs[0].set_ylabel(ylabel)
+    sns.boxplot(data, color=color, linewidth=2, ax=axs[0])
+    axs[0].set_title(title)
+    axs[0].set_ylabel(ylabel, fontsize=11)
 
-    sns.violinplot(x=dados,color=cor,linewidth=3)
-    axs[1].set_xlabel(xlabel)
-    axs[1].set_ylabel(ylabel)
+    sns.violinplot(data,color=color,linewidth=3)
+    axs[1].set_ylabel(ylabel, fontsize=11)
 
     plt.tight_layout()
     plt.show()
